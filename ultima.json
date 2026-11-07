@@ -1,0 +1,16 @@
+{
+  "version": "1.1.0",
+  "fecha": "2026-11-07",
+  "paquete": "paquetes/cotifarma-1.1.0.json",
+  "sha256": "cd28cae1969b90a25d07e87b4247523022fc70063e3353d4c6293c3514f42ff3",
+  "notas": [
+    "Pantalla nueva «Entradas y salidas»: lo que entra y sale del inventario, el resumen de cada mes y el stock bajo",
+    "El costo del ingreso ahora es por caja o por unidad según lo que compres",
+    "Los productos nuevos se pueden ingresar por cajas y configurar después",
+    "El ingreso de mercancía ya no cambia los precios (se manejan solo en Parametrización)",
+    "Al crear un producto se puede escribir su costo",
+    "El cursor va directo a Caja al escanear",
+    "Los documentos dicen «Cotización»",
+    "Actualizaciones automáticas con copia de seguridad"
+  ]
+}
